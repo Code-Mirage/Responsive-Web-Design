@@ -1,3 +1,3 @@
-Responsive Web Design
+responsive web design sample
 
 
